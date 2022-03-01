@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/order-summary-component-challenge-hub-mlyjKPlOs)
-- Live Site URL: [Add live site URL here](https://tempatportofolio.github.io/orderSummaryComponent/)
+- Solution URL: [https://www.frontendmentor.io/solutions/order-summary-component-challenge-hub-mlyjKPlOs](https://www.frontendmentor.io/solutions/order-summary-component-challenge-hub-mlyjKPlOs)
+- Live Site URL: [https://tempatportofolio.github.io/orderSummaryComponent/](https://tempatportofolio.github.io/orderSummaryComponent/)
 
 ## My process
 
